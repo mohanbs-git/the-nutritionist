@@ -1,0 +1,220 @@
+{
+  "contact": {
+    "phone": "+91 98765 43210",
+    "displayPhone": "+91 98765 43210",
+    "email": "consultations@thanyanutrition.com",
+    "whatsappNumber": "+919876543210",
+    "whatsappUrl": "https://wa.me/919876543210"
+  },
+  "clinic": {
+    "name": "Thanya Clinical Practice",
+    "suite": "Suite 402, Prestige Health Avenue, 100 Feet Road",
+    "area": "Indiranagar, Bengaluru, Karnataka 560038",
+    "timings": {
+      "weekdays": "Mon – Sat: 11:00 AM – 1:00 PM & 3:00 PM – 6:00 PM (1:00 PM – 3:00 PM Break)",
+      "sunday": "Closed for inpatient case reviews"
+    },
+    "workingHours": {
+      "start": 11,
+      "end": 18,
+      "breakStart": 13,
+      "breakEnd": 15,
+      "slotDurationMinutes": 30
+    }
+  },
+  "socials": [
+    {
+      "name": "Instagram",
+      "handle": "@thanyanutrition",
+      "url": "https://instagram.com/thanyanutrition",
+      "icon": "instagram"
+    },
+    {
+      "name": "YouTube",
+      "handle": "Thanya Nutrition",
+      "url": "https://youtube.com/@thanyanutrition",
+      "icon": "youtube"
+    },
+    {
+      "name": "LinkedIn",
+      "handle": "Dt. Thanya",
+      "url": "https://linkedin.com/in/thanyanutrition",
+      "icon": "linkedin"
+    },
+    {
+      "name": "WhatsApp",
+      "handle": "+91 98765 43210",
+      "url": "https://wa.me/919876543210",
+      "icon": "whatsapp"
+    }
+  ],
+  "programs": [
+    {
+      "id": "pcos-hormones",
+      "code": "PROGRAM 01",
+      "title": "PCOS & Hormonal Healing",
+      "subtitle": "Evidence-based nutritional protocol to restore ovulatory cycles, clear hormonal acne, and reverse insulin resistance.",
+      "image": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?auto=format&fit=crop&w=700&q=80",
+      "details": "Cycle-syncing nutrition • Anti-androgen dietary strategies • Lab review for LH/FSH & fasting insulin",
+      "format": "Virtual (Worldwide) & In-Clinic",
+      "isActive": true
+    },
+    {
+      "id": "metabolic-weight",
+      "code": "PROGRAM 02",
+      "title": "Metabolic Weight & Thyroid Health",
+      "subtitle": "Sustainable body recomposition that preserves lean muscle and boosts basal metabolic rate (BMR).",
+      "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=700&q=80",
+      "details": "Thyroid conversion support • Zero meal skipping • Tailored to Indian and international dietary habits",
+      "format": "Virtual (Worldwide) & In-Clinic",
+      "isActive": true
+    },
+    {
+      "id": "gut-microbiome",
+      "code": "PROGRAM 03",
+      "title": "Gut Microbiome & IBS Therapy",
+      "subtitle": "Resolve chronic bloating, acid reflux, and irregular digestion by repairing your second brain and intestinal lining.",
+      "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+      "details": "Elimination & gentle reintroduction • Prebiotic & polyphenol diversity • SIBO & reflux management",
+      "format": "Virtual (Worldwide) & In-Clinic",
+      "isActive": true
+    },
+    {
+      "id": "diabetes-cardio",
+      "code": "PROGRAM 04",
+      "title": "Diabetes & Cardiovascular Care",
+      "subtitle": "Lower HbA1c levels, stabilize post-prandial blood sugar spikes, and improve triglycerides without extreme carb bans.",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=700&q=80",
+      "details": "Glycemic load balancing • CGM (Continuous Glucose Monitor) guidance • Lipid panel optimization",
+      "format": "Virtual (Worldwide) & In-Clinic",
+      "isActive": true
+    },
+    {
+      "id": "maternal-postpartum",
+      "code": "PROGRAM 05",
+      "title": "Maternal & Postpartum Nourishment",
+      "subtitle": "Trimester-by-trimester nutritional precision for gestational health, postpartum tissue repair, and lactation support.",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=700&q=80",
+      "details": "Gestational diabetes prevention • Bioavailable iron & choline • Safe postnatal recovery",
+      "format": "Virtual (Worldwide) & In-Clinic",
+      "isActive": true
+    },
+    {
+      "id": "sports-performance",
+      "code": "PROGRAM 06",
+      "title": "Sports Performance & Recomposition",
+      "subtitle": "Nutrient timing, clean protein planning, and intra-workout fueling tailored for athletes, runners, and fitness enthusiasts.",
+      "image": "https://images.unsplash.com/photo-1628771065518-0d82f1938462?auto=format&fit=crop&w=700&q=80",
+      "details": "Pre/post workout nutrient timing • Accelerated muscular recovery • Optimal body fat percentage",
+      "format": "Virtual (Worldwide) & In-Clinic",
+      "isActive": true
+    }
+  ],
+  "caseStudies": [
+    {
+      "id": "case-01",
+      "patient": "Priyanka S., 29",
+      "location": "Bengaluru",
+      "profession": "Senior Product Manager",
+      "diagnosis": "PCOS & Secondary Amenorrhea (Cycles irregular for 2+ years)",
+      "quote": "I was tired of being handed contraceptive pills every time I visited a gynecologist. Dt. Thanya reviewed my fasting insulin and hormone panels and walked me through how simple food adjustments could regulate my cycle. Within four months of following her daily meal rhythm, my cycles returned naturally and my severe cystic acne cleared up completely.",
+      "timeline": "4 Months Protocol",
+      "outcome": "Regular 30-day natural ovulatory cycles restored",
+      "verified": true
+    },
+    {
+      "id": "case-02",
+      "patient": "Dr. Rajesh V., 46",
+      "location": "Mumbai / Dubai",
+      "profession": "Cardiologist",
+      "diagnosis": "Metabolic Syndrome & Elevated Visceral Fat",
+      "quote": "As a physician, I had very little patience for fad diets that eliminated whole food groups. What impressed me about Dt. Thanya was her biochemical grounding. She designed a plan around my demanding hospital rounds that allowed me to eat traditional Indian food. I shed 14 kgs of fat while preserving my skeletal muscle mass.",
+      "timeline": "6 Months Protocol",
+      "outcome": "14 kg fat loss & normalized lipid panel",
+      "verified": true
+    },
+    {
+      "id": "case-03",
+      "patient": "Ananya D., 52",
+      "location": "Pune",
+      "profession": "School Administrator",
+      "diagnosis": "Pre-Diabetes (HbA1c 8.2% with chronic afternoon fatigue)",
+      "quote": "My primary physician warned me that I was weeks away from needing daily diabetes medication. Dt. Thanya restructured my carbohydrate sequencing and taught me how to eat rice without glycemic spikes. My recent laboratory test showed my HbA1c down to 5.7%. Her weekly audio check-ins gave me immense peace of mind.",
+      "timeline": "3 Months Protocol",
+      "outcome": "HbA1c reduced from 8.2% to 5.7%",
+      "verified": true
+    },
+    {
+      "id": "case-04",
+      "patient": "Siddharth N., 34",
+      "location": "London, UK",
+      "profession": "Software Architect (Virtual Consultation)",
+      "diagnosis": "Chronic IBS & Post-Meal Bloating",
+      "quote": "I was initially unsure how an online consultation from Bengaluru would work while living in the UK. But Dt. Thanya provided a grocery shopping roadmap tailored to UK supermarkets like Waitrose and Sainsbury’s. Within 6 weeks, my chronic bloating and gastrointestinal discomfort had resolved.",
+      "timeline": "8 Weeks Protocol",
+      "outcome": "Complete resolution of IBS flare-ups",
+      "verified": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do virtual video consultations work if I live outside Bengaluru or abroad?",
+      "answer": "Virtual consultations are conducted via secure, high-definition Google Meet or Zoom video links. Prior to our session, you will submit an intake questionnaire and upload any recent pathology reports (CBC, Thyroid panel, HbA1c, Fasting Insulin, Lipid profile, etc.). We spend 45 minutes together evaluating your symptoms and metabolic history. Within 24 hours after the call, your complete therapeutic diet blueprint and lifestyle protocol are sent to your email and WhatsApp."
+    },
+    {
+      "question": "Where is the physical clinic located and what happens during an in-person visit?",
+      "answer": "Our clinic is located in Indiranagar, Bengaluru. In addition to a comprehensive consultation with Dt. Thanya, in-person appointments include an advanced medical-grade Bioelectrical Impedance Analysis (BIA) to measure visceral fat rating, skeletal muscle mass, bone mineral density, and intracellular water balance."
+    },
+    {
+      "question": "Will I have to cook separate meals or buy expensive exotic ingredients?",
+      "answer": "Never. Dt. Thanya designs meal charts using authentic, seasonal ingredients already found in your family kitchen—whole lentils, vegetables, regional spices, cold-pressed oils, and traditional staples like rice and rotis. The entire family can eat the same meals; we simply adjust portion proportions and nutrient pairing for your specific biology."
+    },
+    {
+      "question": "How frequent are follow-ups and who conducts them?",
+      "answer": "You communicate directly with Dt. Thanya—not junior associates or automated AI chat tools. Depending on your chosen program, we connect weekly via video calls and check in over WhatsApp to review hunger levels, digestive changes, cycle patterns, and dining-out scenarios."
+    },
+    {
+      "question": "Can Dt. Thanya coordinate with my treating gynecologist or endocrinologist?",
+      "answer": "Yes. As a registered member of the Indian Dietetic Association and Certified Diabetes Educator, Dt. Thanya frequently collaborates with physicians, endocrinologists, and fertility specialists to ensure your diet safely aligns with your clinical medications."
+    }
+  ],
+  "qualifications": [
+    {
+      "category": "Postgraduate",
+      "title": "M.Sc. Clinical Nutrition & Dietetics",
+      "institution": "Gold Medalist • Bangalore University",
+      "description": "Specialized in medical nutrition therapy, metabolic disorders, and renal dietetics."
+    },
+    {
+      "category": "Board Certification",
+      "title": "Certified Diabetes Educator (CDE)",
+      "institution": "National Board of Education",
+      "description": "Expertise in glycemic load management, insulin sensitivity, and pre-diabetes remission."
+    },
+    {
+      "category": "Professional Body",
+      "title": "Member, IDA",
+      "institution": "Indian Dietetic Association",
+      "description": "Adhering to strict clinical ethics, patient confidentiality, and evidence-based standards."
+    },
+    {
+      "category": "Sports Science",
+      "title": "Certified Sports Nutritionist",
+      "institution": "International Society of Sports Nutrition (ISSN)",
+      "description": "Nutrient timing, athletic body recomposition, and muscular recovery protocols."
+    },
+    {
+      "category": "Functional Medicine",
+      "title": "Gut Microbiome Practitioner",
+      "institution": "Advanced Fellowship",
+      "description": "Addressing SIBO, leaky gut, IBS, and systemic food sensitivity triggers."
+    },
+    {
+      "category": "Hormonal Health",
+      "title": "PCOS & Fertility Dietetics",
+      "institution": "Clinical Specialization",
+      "description": "Targeting ovulatory restoration, and androgen regulation through functional nutrition."
+    }
+  ]
+}
+
